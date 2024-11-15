@@ -40,7 +40,7 @@ export default function HomePage() {
                 Blockchain Security Auditor
               </h1>
               <p className="max-w-[600px] text-black md:text-xl mx-auto">
-                Led by Denis Jesus Palma Abanto, Shieldify has protected over 1500 clients with expert blockchain security auditing services.
+                Led by Denis Jesus Palma Abanto, Shieldify has protected over 150 clients with expert blockchain security auditing services.
               </p>
               <Button size="lg" className="mt-4 bg-blue-600 text-white hover:bg-blue-700">
                 Request an audit
