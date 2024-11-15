@@ -103,19 +103,19 @@ export default function HomePage() {
             <h2 className="text-3xl font-bold tracking-tighter mb-4">Our Impact</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-8">
               <div>
-                <h3 className="text-4xl font-bold">1500+</h3>
+                <h3 className="text-4xl font-bold">150+</h3>
                 <p className="text-gray-600">protected clients</p>
               </div>
               <div>
-                <h3 className="text-4xl font-bold">180+</h3>
+                <h3 className="text-4xl font-bold">18+</h3>
                 <p className="text-gray-600">ecosystem partners</p>
               </div>
               <div>
-                <h3 className="text-4xl font-bold">60+</h3>
+                <h3 className="text-4xl font-bold">6+</h3>
                 <p className="text-gray-600">top-class engineers</p>
               </div>
               <div>
-                <h3 className="text-4xl font-bold">7+</h3>
+                <h3 className="text-4xl font-bold">4+</h3>
                 <p className="text-gray-600">years of expertise</p>
               </div>
             </div>
