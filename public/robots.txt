@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.shieldify.dev/sitemap.xml
+Sitemap: https://www.shieldify.lat/sitemap.xml
