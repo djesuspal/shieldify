@@ -5,12 +5,12 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Denis Jesus Palma Abanto | Blockchain Security Expert & Former Solana Lead SRE',
+  title: 'Shieldify | Denis Jesus Palma Abanto',
   description: 'Denis Palma Abanto is a blockchain security expert and former Lead SRE at Solana. Founder of Shieldify, providing expert smart contract and dApp auditing services.',
   keywords: ['Denis Jesus Palma Abanto', 'Denis Palma Abanto', 'Blockchain Security', 'Smart Contract Audit', 'Solana SRE', 'Shieldify'],
   authors: [{ name: 'Denis Jesus Palma Abanto' }],
   openGraph: {
-    title: 'Denis Jesus Palma Abanto | Blockchain Security Expert',
+    title: 'Shieldify | Denis Jesus Palma Abanto',
     description: 'Former Solana Lead SRE and founder of Shieldify, providing blockchain security auditing services.',
     type: 'website',
   },
